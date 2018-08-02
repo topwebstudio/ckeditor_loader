@@ -1,12 +1,15 @@
 {
   "name": "ckeditor_loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ckeditor loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "GK",
   "license": "ISC",
-  "repository": "topwebstudio/ckeditor_loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topwebstudio/ckeditor_loader"
+  },
 }
